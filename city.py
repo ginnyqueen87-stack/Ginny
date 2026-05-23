@@ -31,7 +31,7 @@ st.caption("資料來源：Amazon Sale Report.csv")
 # 讀取資料
 # ------------------------------------------------
 orders = pd.read_csv(
-    "/Users/lizhuoyi/Downloads/Amazon Sale Report.csv"
+    "./Amazon Sale Report.csv"
 )
 
 # ------------------------------------------------
